@@ -1,2 +1,2 @@
 # Python-Email
-Sending Multiple Personalized Emails With Attachments.
+Send Multiple Personalized Emails With Attachments.
